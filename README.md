@@ -1,5 +1,7 @@
 :sunglasses: Portf-lio-kat
 
+Ola mundo, hoje farei meu portfóliio, e mostrar um pouco do que aprendi com essas aulas de computação:blush::blush:
+
 :smiley:Pra comçear aprendi a criar um repertório no github;
 
 :punch:Logo sem seguida aprendi sobre a linguagem no JavaScript, e comecei o pong e os jogos;
